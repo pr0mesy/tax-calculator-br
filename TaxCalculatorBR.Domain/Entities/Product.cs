@@ -6,7 +6,7 @@ public class Product
 {
     public Guid Id { get; set; }
     
-    public ProductType ProductType { get; set; }
+    public ProductType Type { get; set; }
 
     public string Name { get; set; } = string.Empty;
     
