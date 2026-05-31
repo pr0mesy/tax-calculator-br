@@ -25,7 +25,7 @@ Desenvolvido como projeto de portfólio para demonstrar design orientado a domí
 
 ## Arquitetura
 
-O projeto segue Clean Architecture com quatro camadas, cada uma com responsabilidade única e regras estritas de dependência.
+O projeto segue Clean Architecture com cinco camadas, cada uma com responsabilidade única e regras estritas de dependência.
 
 ```
 TaxCalculatorBR/
