@@ -112,7 +112,7 @@ dotnet run --project TaxCalculatorBR.API
 ```
 
 Acesse [http://localhost:5022](http://localhost:5022) para abrir o frontend.  
-Acesse [http://localhost:5022/swagger](http://localhost:5022/swagger) para explorar a API.
+Acesse [http://localhost:5022/swagger](http://localhost:5022/swagger) para explorar a documentação da API.
 
 ---
 
