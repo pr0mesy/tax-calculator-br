@@ -9,6 +9,11 @@ public class IcmsCalculator : ITaxCalculator
     
     private readonly IAliquotaRepository _repository;
 
+    public IcmsCalculator(IAliquotaRepository repository)
+    {
+        _repository = repository;
+    }
+
     public decimal Calculate(Product product, string originState, string destinationState)
     {
         if (product.Type == ProductType.SERVICE)
