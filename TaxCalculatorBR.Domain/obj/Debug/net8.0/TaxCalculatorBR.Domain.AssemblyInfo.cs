@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaxCalculatorBR.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57a85e4bc961b8d3a33558ce644ce685746ae846")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06901c63e258bf12057bb5eaceb21a58351223fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaxCalculatorBR.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaxCalculatorBR.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

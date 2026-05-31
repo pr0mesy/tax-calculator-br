@@ -21,13 +21,11 @@ public class IcmsCalculator : ITaxCalculator
 
         decimal aliquota;
 
-        // alíquota interna
         if (originState == destinationState)
         {
             aliquota = _repository.GetIcmsAliquota(originState);
         }
 
-        // alíquota estadual
         else
         {
             aliquota = _repository.GetIcmsInterestaduais(originState, destinationState);
