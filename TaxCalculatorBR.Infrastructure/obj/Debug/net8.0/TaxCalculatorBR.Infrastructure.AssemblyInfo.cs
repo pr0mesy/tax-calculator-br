@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaxCalculatorBR.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7700fb1d852e54e49101efd355a1fe16d6ce1630")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48d920aabc3fb3e0e834ba01b49c9088ad10c50b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaxCalculatorBR.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaxCalculatorBR.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
