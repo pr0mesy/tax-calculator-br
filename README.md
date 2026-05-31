@@ -1,5 +1,4 @@
-### Frontend
-<img src="TaxCalculatorBR.API/wwwroot/assets/frontend.png" width="600">
+<img src="TaxCalculatorBR.API/wwwroot/assets/frontend.png" width="900">
 
 
 # Tributo
