@@ -1,5 +1,5 @@
 ### Frontend
-<img src="assets/swagger.png" width="900">
+<img src="TaxCalculatorBR.API/wwwroot/assets/frontend.png" width="600">
 
 
 # Tributo
